@@ -1,3 +1,6 @@
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ricardo Mendes | @Rikkarth</h1>
+
 ![Snake animation](https://github.com/rikkarth/rikkarth/blob/output/github-contribution-grid-snake.svg)
 
 - 👋 Hi, I’m @rikkarth
