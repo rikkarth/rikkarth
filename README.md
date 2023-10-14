@@ -9,7 +9,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rikkarth/rikkarth/output/github-contribution-grid-snake.svg">
 </picture>
 
-   <h2 align="center">😎 you can reach me by:</h2>
+   <h2 align="center">😎 reach me</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/ricardominamendes/" target="blank"><img align="center"
