@@ -1,8 +1,12 @@
 <h1 align="center">Hi <img width="35" src="waving.gif"/>, I'm Ricardo Mendes | @Rikkarth</h1>
 
-<h3 align="center"> I love to build Software</h3>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikkarth/rikkarth/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rikkarth/rikkarth/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rikkarth/rikkarth/output/github-contribution-grid-snake.svg">
+</picture>
 
-## about me
+## 👾about me🤖
 
 * i was born in tech, 90's kid growing around computers
 * gamer mindset, internet culture
@@ -14,11 +18,18 @@
 * i do a bit of everything
 * communication mindset, i'm not a cave troll (yet)
 * backend inclined
+* i read a lot about programming, please give me good books suggestions
 * i love functional programming, but also OOP, i do my best to bring the best of two together
 * i'm currently and mostly working with Java, Groovy, Javascript, sometimes Python, other times some Bash, I've done some mini-game projects in Unity (C#), I've learned how to code in Pascal and C, and did a bit of C++ on my electronics studies, I studied automation.
 * i want to try OCaml and HTMX in my near future.
 * i like to think I know how to make CI/CD builds, but I really have no patience for it.
 * i like all things Apache, maybe one day they will hire me.
+
+<p align="center">
+   <a href="https://github.com/rikkarth/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkarth&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rikkarth :: Top Langs"/>
+   </a>
+</p>
 
 ##
 
@@ -27,14 +38,7 @@
    <img src="developers.gif">
 </div>
 
-##
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikkarth/rikkarth/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rikkarth/rikkarth/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rikkarth/rikkarth/output/github-contribution-grid-snake.svg">
-</picture>
-
-<h2 align="center">😎 reach me</h2>
+<h2 align="center">🚀connect with me</h2>
 
 <p align="center">
    <br/>
@@ -43,9 +47,3 @@
    </a>
 
 ##
-
-<p align="center">
-   <a href="https://github.com/rikkarth/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkarth&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rikkarth :: Top Langs"/>
-   </a>
-</p>
