@@ -8,22 +8,12 @@
 
 ## 👾about me🤖
 
-* i was born in tech, 90's kid growing around computers
-* gamer mindset, internet culture
-* studied programming, but started career as electronics specialist, then studied programming again and now i work full-time as a *le coder*
-* i'm making a library and it's in maven central, look how cool i am
-* i'm part of the lowercase team, but will uppercase from time to time
-* love open-source culture and community
-* will write in any language, 10x coder mentality
-* i do a bit of everything
-* communication mindset, i'm not a cave troll (yet)
-* backend inclined
-* i read a lot about programming, please give me good books suggestions
-* i love functional programming, but also OOP, i do my best to bring the best of two together
-* i'm currently and mostly working with Java, Groovy, Javascript, sometimes Python, other times some Bash, I've done some mini-game projects in Unity (C#), I've learned how to code in Pascal and C, and did a bit of C++ on my electronics studies, I studied automation.
-* i want to try OCaml and HTMX in my near future.
-* i like to think I know how to make CI/CD builds, but I really have no patience for it.
-* i like all things Apache, maybe one day they will hire me.
+🌟 Enthusiastic Software Developer | Video Game Aficionado | 
+Problem-solving Prodigy 🌟
+
+Hi there! I'm an ambitious Software Developer, currently making waves at a top-tier IT company. My love for video games has nurtured my problem-solving prowess and ignited my passion for software development, programming, and everything IT.
+
+As a self-proclaimed nerd and geek, I'm driven by curiosity and an unquenchable thirst for knowledge. I'm captivated by the wonders of science, nature, and space, and I bring that sense of awe and exploration to my work in the tech world. 🚀
 
 <p align="center">
    <a href="https://github.com/rikkarth/">
