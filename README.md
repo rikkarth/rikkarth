@@ -8,14 +8,18 @@
 
 ## 👾about me🤖
 
-🌟 Enthusiastic Software Developer | Video Game Aficionado | 
+🌟 Enthusiastic Software Developer | Video Game Aficionado |
 Problem-solving Prodigy 🌟
 
-Hi there! I'm an ambitious Software Developer, currently making waves at a top-tier IT company. My love for video games has nurtured my problem-solving prowess and ignited my passion for software development, programming, and everything IT.
+Hi there! I'm an ambitious Software Developer, currently making waves at a top-tier IT company. My
+love for video games has nurtured my problem-solving prowess and ignited my passion for software
+development, programming, and everything IT.
 
-As a self-proclaimed nerd and geek, I'm driven by curiosity and an unquenchable thirst for knowledge. I'm captivated by the wonders of science, nature, and space, and I bring that sense of awe and exploration to my work in the tech world. 🚀
+As a self-proclaimed nerd and geek, I'm driven by curiosity and an unquenchable thirst for
+knowledge. I'm captivated by the wonders of science, nature, and space, and I bring that sense of
+awe and exploration to my work in the tech world. 🚀
 
-<p align="center">
+<p style="text-align:center">
    <a href="https://github.com/rikkarth/">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkarth&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rikkarth :: Top Langs"/>
    </a>
@@ -23,14 +27,15 @@ As a self-proclaimed nerd and geek, I'm driven by curiosity and an unquenchable 
 
 ##
 
-<div align="center">
-   <p>images have no soun...</p>
-   <img src="developers.gif">
+<div style="text-align:center">
+   <b><p>Open-Source Contributions</p></b>
+   <p><a href="https://github.com/stleary/JSON-java">stleary/JSON-java</a></p>
+   <img src="developers.gif" alt="meme gif about windows ex-ceo repeating the word developers">
 </div>
 
-<h2 align="center">🚀connect with me</h2>
+<h2 align="center">🚀lets connect</h2>
 
-<p align="center">
+<p style="text-align:center">
    <br/>
    <a href="https://www.linkedin.com/in/ricardominamendes/" target="blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rikkarth" height="30"/>
