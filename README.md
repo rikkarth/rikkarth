@@ -19,7 +19,7 @@ As a self-proclaimed nerd and geek, I'm driven by curiosity and an unquenchable 
 knowledge. I'm captivated by the wonders of science, nature, and space, and I bring that sense of
 awe and exploration to my work in the tech world. 🚀
 
-<p style="text-align:center">
+<p align="center">
    <a href="https://github.com/rikkarth/">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkarth&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rikkarth :: Top Langs"/>
    </a>
@@ -27,7 +27,7 @@ awe and exploration to my work in the tech world. 🚀
 
 ##
 
-<div style="text-align:center">
+<div align="center">
    <b><p>Open-Source Contributions</p></b>
    <p><a href="https://github.com/stleary/JSON-java">stleary/JSON-java</a></p>
    <img src="developers.gif" alt="meme gif about windows ex-ceo repeating the word developers">
@@ -35,7 +35,7 @@ awe and exploration to my work in the tech world. 🚀
 
 <h2 align="center">🚀lets connect</h2>
 
-<p style="text-align:center">
+<p align="center">
    <br/>
    <a href="https://www.linkedin.com/in/ricardominamendes/" target="blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rikkarth" height="30"/>
