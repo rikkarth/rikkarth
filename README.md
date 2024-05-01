@@ -9,7 +9,7 @@
 ## 👾about me🤖
 
 🌟 Enthusiastic Software Developer | Video Game Aficionado |
-Problem-solving Prodigy 🌟
+~~Problem-solving Prodigy~~ was humbled by real prodigy🌟
 
 Hi there! I'm an ambitious Software Developer, currently making waves at a top-tier IT company. My
 love for video games has nurtured my problem-solving prowess and ignited my passion for software
