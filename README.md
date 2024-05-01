@@ -28,9 +28,9 @@ awe and exploration to my work in the tech world. 🚀
 ##
 
 <div align="center">
-   <b><p>Open-Source Contributions</p></b>
+   <b><p>Open-Source Contributing</p></b>
    <p><a href="https://github.com/stleary/JSON-java">stleary/JSON-java</a></p>
-   <p><a href="https://github.com/apache/commons-configuration">apache/commons-configuration</a></p> 
+   <p><a href="https://github.com/apache/commons-configuration">apache/commons-configuration</a></p> (working on it)
    <img src="developers.gif" alt="meme gif about windows ex-ceo repeating the word developers">
 </div>
 
