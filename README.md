@@ -19,6 +19,6 @@ I consider myself a bit of a nerd, always eager to learn more about the world ar
 <div align="center">
    <b><p>Open-Source | Contributing</p></b>
    <p><a href="https://github.com/stleary/JSON-java">stleary/JSON-java</a></p>
-   <p><a href="https://github.com/apache/commons-configuration">apache/commons-configuration</a>  (working on it)</p>
+   <p><a href="https://github.com/apache/commons-configuration">apache/commons-configuration</a></p>
    <img src="developers.gif" alt="meme gif about windows ex-ceo repeating the word developers">
 </div>
