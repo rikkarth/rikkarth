@@ -22,3 +22,15 @@ I consider myself a bit of a nerd, always eager to learn more about the world ar
    <p><a href="https://github.com/apache/commons-configuration">apache/commons-configuration</a></p>
    <img src="developers.gif" alt="meme gif about windows ex-ceo repeating the word developers">
 </div>
+
+## 
+
+<p align="center">
+          <a href=
+             "https://github.com/rikkarth/"
+             >
+          <img 
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkarth&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" 
+               alt="rikkarth :: Top Langs" 
+               /></a>
+</p>
