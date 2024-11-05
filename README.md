@@ -8,7 +8,7 @@
 
 ## 👾about me🤖
 
-Deeply passionate about software development, constantly seeking to expand my skills and contribute meaningfully to the field.
+Deeply passionate about software development and gaming, constantly seeking to expand my skills and contribute meaningfully to the field.
 
 My journey into programming was sparked by my love for video games, which also taught me a lot about problem-solving.
 
